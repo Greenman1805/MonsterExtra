@@ -1,0 +1,9 @@
+name: MonsterExtra
+main: de.greenman1805.monsterextra.Main
+version: 1.0
+author: Greenman1805
+depends: [Vault]
+
+permissions:
+  monsterextra.reward:
+    default: false
